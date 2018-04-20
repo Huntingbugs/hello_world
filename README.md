@@ -1,6 +1,6 @@
 # hello_world
 
-hello veryone
+hello everyone...
 
 i am huntingbugs.. glad to meet you..
 
